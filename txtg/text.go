@@ -2,7 +2,7 @@ package txtg
 
 import (
 	"fmt"
-	".."
+	"github.com/arranubels/chart"
 	"math"
 )
 

@@ -6,8 +6,8 @@ import (
 	"math"
 	"testing"
 
-	"github.com/vdobler/chart"
-	"github.com/vdobler/chart/txtg"
+	"github.com/arranubels/chart"
+	"github.com/arranubels/chart/txtg"
 )
 
 const r = 18

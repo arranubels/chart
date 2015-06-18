@@ -6,7 +6,7 @@ import (
 	"math"
 
 	"github.com/ajstarks/svgo"
-	".."
+	"github.com/arranubels/chart"
 )
 
 // SvgGraphics implements BasicGraphics and uses the generic implementations
